@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "fname": "manav",
+      "username": "heymanav",
+      "password": "Manav157*",
+      "email": "barkhapandey05@gmail.com",
+      "id": 1
+    },
+    {
+      "fname": "danial ",
+      "username": "daaaa",
+      "password": "1234567890m@",
+      "mobile": "1234567890",
+      "email": "d@gmail.com",
+      "id": 2
+    },
+    {
+      "fname": "manav  ",
+      "username": "heymanav1",
+      "password": "123456m@",
+      "mobile": "1234567890",
+      "email": "manav@gmail.com",
+      "id": 3
+    }
+  ]
+}
